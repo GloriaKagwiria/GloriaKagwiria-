@@ -3,7 +3,8 @@
 These include learning to integrate **AI** ,learning *machine learning* as well as 'programming languages'
 [To know more about me visit](https://github.com/GloriaKagwiria)
 [This page is also insightful](https://github.com/GloriaKagwiria/GloriaKagwiria.github.io)
-####Things I want to learn
+
+#### Things I Want To Learn 
 - Integrate AI
 - Machine learning 
 - Programming languages
