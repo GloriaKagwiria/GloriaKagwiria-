@@ -1,6 +1,6 @@
 ## My Learning Goals 
 ### This Semester 
-These include learning to integrate **AI** ,learning *machine learning* as well as 'programming languages'
+These include learning to integrate **AI** ,learning *machine learning* as well as `programming languages`
 [To know more about me visit](https://github.com/GloriaKagwiria)
 [This page is also insightful](https://github.com/GloriaKagwiria/GloriaKagwiria.github.io)
 
