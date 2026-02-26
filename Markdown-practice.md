@@ -32,6 +32,6 @@ print("Hello, world!")
 ```
 >Your mindset dictates how far you are going to make it in life.
 #### ABOUT ME
-My 'name' is ~GloriaKagwiria~ from **AI class**. 
+My `name` is ~GloriaKagwiria~ from **AI class**. 
 I am currently learning *markdown* on github.
 [To visit my github account click](https://github.com/GloriaKagwiria).
