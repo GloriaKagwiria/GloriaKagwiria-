@@ -15,6 +15,7 @@ These include learning to integrate **AI** ,learning *machine learning* as well 
 2. Stage your changes and review your staged changes
 3. Commit your changes
 
+#### Tools I Want To Learn 
 
 | Tool    | Purpose                                          | Link                |
 |---------|--------------------------------------------------|---------------------|
@@ -35,3 +36,12 @@ print("Hello, world!")
 My `name` is ~GloriaKagwiria~ from **AI class**. 
 I am currently learning *markdown* on github.
 [To visit my github account click](https://github.com/GloriaKagwiria).
+>I am very eager to learn more about AI
+##### What I'm Learning in Class
+- Integrate AI
+- Machine learning 
+- Programming languages
+ ```python
+print("Have been enjoying classes!")
+```
+
