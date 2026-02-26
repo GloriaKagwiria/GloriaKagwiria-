@@ -1,3 +1,7 @@
+# Heading 1 (largest)
+## Heading 2
+### Heading 3
+#### Heading 4
 ##My Learning Goals
 ###This Semester 
 These include learning to integrate **AI** ,learning *machine learning* as well as 'programming languages'
