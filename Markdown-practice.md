@@ -16,7 +16,7 @@ These include learning to integrate **AI** ,learning *machine learning* as well 
 
 
 | Tool    | Purpose                                          | Link                |
-|------------------------------------------------------------|---------------------|
+|---------|--------------------------------------------------|---------------------|
 | Github  | Store,share and develop code                     | https://github.com  |
 | Git     | keep track of coding activities                  | https://git-scm.com |
 | Copilot | Improve productivity by assisting tasks          |https://github.com   |
