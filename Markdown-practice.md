@@ -10,7 +10,7 @@ These include learning to integrate **AI** ,learning *machine learning* as well 
 - Programming languages
   
 
-####Steps to make a commit in Git
+#### Steps to make a commit in Git
 1. Modify or create files in your local project diectory
 2. Stage your changes and review your staged changes
 3. Commit your changes
@@ -29,7 +29,7 @@ These include learning to integrate **AI** ,learning *machine learning* as well 
 print("Hello, world!")
 ```
 >Your mindset dictates how far you are going to make it in life.
-####ABOUT ME
+#### ABOUT ME
 My 'name' is ~GloriaKagwiria~ from **AI class**. 
 I am currently learning *markdown* on github.
 [To visit my github account click](https://github.com/GloriaKagwiria).
