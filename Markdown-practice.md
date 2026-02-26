@@ -1,9 +1,5 @@
-# Heading 1 (largest)
-## Heading 2
-### Heading 3
-#### Heading 4
-##My Learning Goals
-###This Semester 
+## My Learning Goals 
+### This Semester 
 These include learning to integrate **AI** ,learning *machine learning* as well as 'programming languages'
 [To know more about me visit](https://github.com/GloriaKagwiria)
 [This page is also insightful](https://github.com/GloriaKagwiria/GloriaKagwiria.github.io)
