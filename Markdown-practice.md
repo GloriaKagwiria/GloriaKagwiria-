@@ -6,18 +6,18 @@ These include learning to integrate **AI** ,learning *machine learning* as well 
 ####Things I want to learn
 - Integrate AI
 - Machine learning 
-  - Programming languages
+- Programming languages
   
 
 ####Steps to make a commit in Git
 1. Modify or create files in your local project diectory
 2. Stage your changes and review your staged changes
 3. Commit your changes
-| Tool    | Purpose                                                      | Link                |
-|---------|--------------------------------------------------------------|---------------------|
-| Github  | Store,share and develop code                                 | https://github.com  |
-| Git     | keep track of coding activities                              | https://git-scm.com |
-| Copilot | Improve developer productivity by assisting in various tasks | https://github.com  |
+| Tool    | Purpose                                          | Link                |
+|------------------------------------------------------------|---------------------|
+| Github  | Store,share and develop code                     | https://github.com  |
+| Git     | keep track of coding activities                  | https://git-scm.com |
+| Copilot | Improve productivity by assisting tasks          |https://github.com   |
 - [x] Learn Markdown
 - [ ] Learn Machine Learning 
 - [ ] Learn AI Integration 
